@@ -1,5 +1,5 @@
 {
     "shareCredentialsVersion": 1,
     "endpoint": "http://172.210.21.42:8080/delta-sharing",
-    "bearerToken": "MTg5MjYzN2ItMTE3Ni00ZmM0LWJiNmUtMzUzN2ZmMWZjMzBiOjAyNTg2YjQ4LTM0ZmYtNGE1Mi05MGRlLTE4MzA5ODU3NTdmNDpjdXN0b21lciBkZW1vZ3JhcGhpY3M="
+    "bearerToken": "12345"
 }
